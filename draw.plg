@@ -1,0 +1,4 @@
+plot filename w l
+pause -1
+#plot filename using 2: xtic(1) with histogram
+#pause -1
